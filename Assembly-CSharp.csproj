@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Auditory.cs" />
+     <Compile Include="Assets\Raspisanie.cs" />
      <Compile Include="Assets\StudentController.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
